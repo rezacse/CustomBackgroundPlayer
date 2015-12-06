@@ -1,0 +1,4 @@
+D:\Sample Project\git\CustomBackgroudPlayer\AudioPlaybackAgent1\Bin\Debug\AudioPlaybackAgent1.dll
+D:\Sample Project\git\CustomBackgroudPlayer\AudioPlaybackAgent1\Bin\Debug\AudioPlaybackAgent1.pdb
+D:\Sample Project\git\CustomBackgroudPlayer\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.dll
+D:\Sample Project\git\CustomBackgroudPlayer\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.pdb
